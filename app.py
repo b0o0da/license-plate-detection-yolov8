@@ -15,7 +15,7 @@ import io
 # ------------------------------------------------------------------
 # Config
 # ------------------------------------------------------------------
-MODEL_PATH = r"C:\Users\NAIRA\Desktop\New Github\license-plate-detection-yolov8\runs\detect\train\weights\best.pt"
+MODEL_PATH = "runs/detect/train/weights/best.pt"
 
 st.set_page_config(page_title="License Plate Detection - YOLOv8s", page_icon="🚘", layout="centered")
 
